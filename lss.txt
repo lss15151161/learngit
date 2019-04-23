@@ -1,3 +1,4 @@
 lss is learning git from liaoxuefeng
 the fox over the dog
 git has a mutable index called stage.
+git tracks changes.
